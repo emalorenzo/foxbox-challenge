@@ -260,7 +260,6 @@
 		647C044D81517374C389AC339DAB0D9F /* RCTMultilineTextInputView.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B2A8D216CBF668FBFF1C4383EC33799 /* RCTMultilineTextInputView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		652041F6E28C43D894055ACD18C88287 /* ieee.h in Headers */ = {isa = PBXBuildFile; fileRef = 8EF608FAF98A8987140AAED649F3BC46 /* ieee.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		656C1A89255E117BCFA72294EB005C03 /* RCTReloadCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7C77EDF6B9352476F009164C6D36C2 /* RCTReloadCommand.m */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
-		658F63FF2E5A49A8EAC62FF1AAD0D5DC /* Pods-FoxboxChallengeTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 08BFD5A61E16D3069D0689D5374CE3A8 /* Pods-FoxboxChallengeTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		659656C37D975498F7784EF10476EE0E /* RecoverableError.h in Headers */ = {isa = PBXBuildFile; fileRef = F86CC703B3C7D7208F3E47ADE51C2249 /* RecoverableError.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		675AFCCA3D3057A1D9321111A73C7A1C /* RCTInterpolationAnimatedNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 93C26080917CF37A41C621E38F741895 /* RCTInterpolationAnimatedNode.m */; };
 		680716DBB494E80BB19D41F2BF0D49BF /* RCTImageUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = E8CEC2AEAC9804DD57B07CA8C228DC1C /* RCTImageUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -311,7 +310,7 @@
 		7F67317508EA3A5183FE712EC2740E33 /* Yoga-internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 60F89575C3C018B0B012A7E3A4591659 /* Yoga-internal.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		7FC6823D02B7A55CC30BF542E3C6646F /* RCTLinkingManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A07A59272998A579136EE3546ECC9FB /* RCTLinkingManager.m */; };
 		805AA2646106E1778067DD98BEA7940B /* RCTMultipartStreamReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 924535881AFD471CF42D35E01606DD28 /* RCTMultipartStreamReader.m */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
-		807CBAB1A774D05DD228E9C8FAEB65CA /* Pods-FoxboxChallenge-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FDEA1241ABEDE771D983E275DB779E20 /* Pods-FoxboxChallenge-dummy.m */; };
+		807CBAB1A774D05DD228E9C8FAEB65CA /* Pods-FoxboxChallenge-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2068A894D3B4D8F368F8FD59133A95C2 /* Pods-FoxboxChallenge-dummy.m */; };
 		80A3763D6880D2C05AA8813D59487BC5 /* RCTAlertManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 49ADFC70FB43648A73BCD40CB5882D28 /* RCTAlertManager.m */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
 		80DEEE3A4F68A4ABE746728F71F08E04 /* MethodCall.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A4782E83684F3A5CEFC9535A0301AF5D /* MethodCall.cpp */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
 		80F0979645D5E8140872B18A9F07BC7F /* RCTRedBoxExtraDataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 682AB4579B0C000EDBB6DBA336A86263 /* RCTRedBoxExtraDataViewController.m */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
@@ -339,7 +338,6 @@
 		8A8F90372DF708184FC87C80C2D12C20 /* RCTSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 43E75715002D12A7DD97FF449EF10776 /* RCTSwitch.m */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
 		8AA61C81432BAF99502868965045F1EB /* RCTCxxModule.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1F687F2DBD1C4291A0AE56BC9E16CBF9 /* RCTCxxModule.mm */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
 		8B83878C4A31A553A2755719073C6464 /* RCTBaseTextShadowView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E7A5E85B9E5E65350EB67ED63902E96 /* RCTBaseTextShadowView.m */; };
-		8BD2C0C46F24A92E7824A888C3A74675 /* Pods-FoxboxChallengeTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 73833C2143D9701F6CBEE71D3C70C8BB /* Pods-FoxboxChallengeTests-dummy.m */; };
 		8BD74D02199FA4485AA8850641072C16 /* RCTImageSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 38F3CB091D3D0CD48B9169D06FC36C97 /* RCTImageSource.m */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
 		8BF8E644D6090E920E1C228FC2DBAB8D /* RCTConvert.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C8A0CE8C721F7CEBAA4FB6F99872553 /* RCTConvert.m */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
 		8C067FD622C1A0DDB69BEFB635A16475 /* SharedProxyCxxModule.h in Headers */ = {isa = PBXBuildFile; fileRef = ED7957453A72DE8BE37AD2A249FAFDEA /* SharedProxyCxxModule.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -423,7 +421,7 @@
 		B168FBFC2080737DE93A1E59E44A7B8A /* RCTTrackingAnimatedNode.h in Headers */ = {isa = PBXBuildFile; fileRef = 992735D2539CD39E789F0C3A1AAEDE7F /* RCTTrackingAnimatedNode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B334BCE6CF608AB5E787998F81767D71 /* RCTSinglelineTextInputViewManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 41DEE3BF89B027F82FB318B2318F39EA /* RCTSinglelineTextInputViewManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B44D54C305B648481D574B2AE34ACD9E /* RCTRefreshControlManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 27E7BDFD73163379A799E30B2A423CC0 /* RCTRefreshControlManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B53811AF4F3087B4BEE86CA9E0258619 /* Pods-FoxboxChallenge-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D5F0F3143153C56D9C64541ECF28237 /* Pods-FoxboxChallenge-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B53811AF4F3087B4BEE86CA9E0258619 /* Pods-FoxboxChallenge-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 88700249F52D3B0453DCCC8091CFF7CC /* Pods-FoxboxChallenge-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B61EDDA77D4AD7801AB1451EAE8837CF /* RCTResizeMode.h in Headers */ = {isa = PBXBuildFile; fileRef = 6480702193734DB907ABCA5081C50C58 /* RCTResizeMode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B7535D13F6BB0AF528D26D6A05E19B85 /* instrumentation.h in Headers */ = {isa = PBXBuildFile; fileRef = 23985D89665C9270CB3053091C5635CE /* instrumentation.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		B76F97C9524FE8B09792D070EFF68E01 /* RCTShadowView+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = EDD20149EDAD94E35A8241F75D384EBB /* RCTShadowView+Layout.m */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
@@ -507,7 +505,6 @@
 		D69E0FF2B516FAC3A78A1D3F6974EA7F /* YGConfig.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 88AF9A9EE7868AECE22C14899478472C /* YGConfig.cpp */; settings = {COMPILER_FLAGS = "-fno-omit-frame-pointer -fexceptions -Wall -Werror -std=c++1y -fPIC -fno-objc-arc"; }; };
 		D70FE8BD06EAF528C436753DA5E1CFB4 /* dynamic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 053900933C2F174238B20535D6360451 /* dynamic.cpp */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
 		D7488E323303A0991617C0BB57B54542 /* RCTInspectorPackagerConnection.h in Headers */ = {isa = PBXBuildFile; fileRef = C35C3E9A7ABAAF568C13E658123BF8CB /* RCTInspectorPackagerConnection.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D77E5BF15A77D0D26EBDA466E9676C7C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 352CFC5481A9E992DFE69316E98212F0 /* Foundation.framework */; };
 		D931CF655B0F0995273FDE89F3F2166D /* RCTSurfaceView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 7F2566AA04032F95DD77F59E9C0FC043 /* RCTSurfaceView.mm */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
 		D9C2F2AF830FA09C5A4717BF6EC764ED /* jsi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 055E7BA954C494E874FCE2C5264F2158 /* jsi.cpp */; settings = {COMPILER_FLAGS = "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1"; }; };
 		D9C431E7837ACE930821412BD5334AD7 /* RCTTextDecorationLineType.h in Headers */ = {isa = PBXBuildFile; fileRef = 5D91F42C45F66D203F3182560BEC9415 /* RCTTextDecorationLineType.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -610,13 +607,6 @@
 			proxyType = 1;
 			remoteGlobalIDString = D0B273D56D6C8A0C770E79BE693CE2EE;
 			remoteInfo = yoga;
-		};
-		086B55695E53A10EE8B464ACCE12C03F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AB84D920BB90A9C3A214D8E98B77F7D5;
-			remoteInfo = "Pods-FoxboxChallenge";
 		};
 		091F39526FA290E3CCB2363C92C86126 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -740,7 +730,6 @@
 		07507B57BB4358A086A7B9D9F895E931 /* RCTBorderStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBorderStyle.h; sourceTree = "<group>"; };
 		075392E90F7ED52A9538B5D3AC1ECEE8 /* RAMBundleRegistry.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = RAMBundleRegistry.cpp; path = ReactCommon/cxxreact/RAMBundleRegistry.cpp; sourceTree = "<group>"; };
 		07764AC6AC7927772C67E1BBB8E37B73 /* RCTMultilineTextInputView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTMultilineTextInputView.m; sourceTree = "<group>"; };
-		08BFD5A61E16D3069D0689D5374CE3A8 /* Pods-FoxboxChallengeTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FoxboxChallengeTests-umbrella.h"; sourceTree = "<group>"; };
 		0A4BC3FA7A65F8B657632291702CC7FA /* RCTProgressViewManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTProgressViewManager.m; sourceTree = "<group>"; };
 		0AD4A9EAC81458FE9F32032ACABDACA9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		0C4E6E91A5E30038D6C10F31712D8543 /* RCTTextSelection.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTextSelection.h; sourceTree = "<group>"; };
@@ -761,7 +750,6 @@
 		11DA298A1F36A99FCC115FEB4E0B88A4 /* RCTMessageThread.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTMessageThread.h; sourceTree = "<group>"; };
 		11EC41487FD8D73D20339E1B4DD43FFB /* RCTAdditionAnimatedNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTAdditionAnimatedNode.m; sourceTree = "<group>"; };
 		121B3BC161B4487CC08CBC863A401A7B /* RCTBackedTextInputDelegateAdapter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBackedTextInputDelegateAdapter.h; sourceTree = "<group>"; };
-		127792DB6BBD399477A4135400C5A7B7 /* Pods-FoxboxChallenge-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FoxboxChallenge-frameworks.sh"; sourceTree = "<group>"; };
 		1294366657C1484E0F5A08F4E90EDFC2 /* RCTSegmentedControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTSegmentedControl.m; sourceTree = "<group>"; };
 		13D91F3075D7FC588A72E80302932DBB /* RCTValueAnimatedNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTValueAnimatedNode.m; sourceTree = "<group>"; };
 		140763044FBA55E62C5A5B3351499434 /* YGMarker.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = YGMarker.cpp; path = yoga/YGMarker.cpp; sourceTree = "<group>"; };
@@ -783,7 +771,6 @@
 		191162A77B3974DF568493D72D233CD5 /* NSDataBigString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = NSDataBigString.h; sourceTree = "<group>"; };
 		1932E63880089527A53067D51453F25A /* ColdClass.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = ColdClass.cpp; path = folly/lang/ColdClass.cpp; sourceTree = "<group>"; };
 		19E78DD76272138325A80BAB8281AB85 /* RCTInvalidating.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTInvalidating.h; sourceTree = "<group>"; };
-		1AC8501D1ADA02B69742BD4940A4B618 /* Pods-FoxboxChallenge-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FoxboxChallenge-acknowledgements.plist"; sourceTree = "<group>"; };
 		1C00E6755C2A413D6F68398F4173C94D /* fast-dtoa.cc */ = {isa = PBXFileReference; includeInIndex = 1; name = "fast-dtoa.cc"; path = "double-conversion/fast-dtoa.cc"; sourceTree = "<group>"; };
 		1CB1EC0537E7275E13F3ACE9F79B270F /* RCTAlertManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTAlertManager.h; sourceTree = "<group>"; };
 		1D4329449DD51B6CC1099F008BFA949B /* RCTMaskedViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTMaskedViewManager.h; sourceTree = "<group>"; };
@@ -794,6 +781,7 @@
 		1F363490533BBCB307252A307DE867A8 /* RCTVirtualTextViewManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTVirtualTextViewManager.m; sourceTree = "<group>"; };
 		1F687F2DBD1C4291A0AE56BC9E16CBF9 /* RCTCxxModule.mm */ = {isa = PBXFileReference; includeInIndex = 1; path = RCTCxxModule.mm; sourceTree = "<group>"; };
 		1FA65622A09E4E5504F80B3610AB78F1 /* yoga.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = yoga.framework; path = yoga.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2068A894D3B4D8F368F8FD59133A95C2 /* Pods-FoxboxChallenge-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FoxboxChallenge-dummy.m"; sourceTree = "<group>"; };
 		20701F64F7D7AE54AAD72D7F0B2E2639 /* JSIDynamic.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JSIDynamic.h; path = ReactCommon/jsi/JSIDynamic.h; sourceTree = "<group>"; };
 		208614EFE73C60BBFB2DA47C43A5633D /* RCTImageLoader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTImageLoader.h; path = Libraries/Image/RCTImageLoader.h; sourceTree = "<group>"; };
 		20D6FE4DEB28A2B845A954F30FB1C68C /* RCTConvert+Text.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "RCTConvert+Text.m"; path = "Libraries/Text/RCTConvert+Text.m"; sourceTree = "<group>"; };
@@ -829,14 +817,15 @@
 		2A1D5922F04DDC040D5B9DD7F28B99AB /* RCTDeviceInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDeviceInfo.h; sourceTree = "<group>"; };
 		2A2BDDE58F082E326FD8668B4C0A681E /* RCTMaskedView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTMaskedView.m; sourceTree = "<group>"; };
 		2A58955CEC7DE4810C2EE018C4789CF3 /* RCTPlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTPlatform.m; sourceTree = "<group>"; };
+		2A8794286B875C37C844092B55768CBB /* Pods-FoxboxChallenge.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FoxboxChallenge.debug.xcconfig"; sourceTree = "<group>"; };
 		2AC3B0794F314356F8DB5F503318A50D /* RCTPropsAnimatedNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTPropsAnimatedNode.h; sourceTree = "<group>"; };
 		2B0F791A2CD7D64B8B50D9317FC067BE /* RCTExceptionsManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTExceptionsManager.h; sourceTree = "<group>"; };
-		2B44B64B59E3C0EA85BE6B6933E4D727 /* Pods-FoxboxChallenge.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FoxboxChallenge.debug.xcconfig"; sourceTree = "<group>"; };
+		2B248BD5B0AE4B1B002CAA27E87110A6 /* Pods-FoxboxChallenge.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FoxboxChallenge.release.xcconfig"; sourceTree = "<group>"; };
 		2BCD2F60BE608B601BACCCE38D1E1067 /* RCTSurfaceSizeMeasureMode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSurfaceSizeMeasureMode.h; sourceTree = "<group>"; };
 		2C7106056A4438AFA5F32C95DF5EB546 /* RCTNetInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTNetInfo.h; path = Libraries/Network/RCTNetInfo.h; sourceTree = "<group>"; };
+		2CB2C304242A317D9B1693F7D67656E4 /* Pods-FoxboxChallenge-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FoxboxChallenge-acknowledgements.plist"; sourceTree = "<group>"; };
 		2D0B445217F4B4D2144987E5A9763F6E /* RCTDataRequestHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTDataRequestHandler.h; path = Libraries/Network/RCTDataRequestHandler.h; sourceTree = "<group>"; };
 		2D138A4F13BB651491F963ED9C786E28 /* RCTPickerManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTPickerManager.m; sourceTree = "<group>"; };
-		2D5F0F3143153C56D9C64541ECF28237 /* Pods-FoxboxChallenge-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FoxboxChallenge-umbrella.h"; sourceTree = "<group>"; };
 		2E9D97D2D57C3C58A0F54CB2F493290B /* RCTWebView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTWebView.m; sourceTree = "<group>"; };
 		2EC306746736C9EBF4C518745313953E /* RCTNetworkTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTNetworkTask.h; path = Libraries/Network/RCTNetworkTask.h; sourceTree = "<group>"; };
 		2EE4BA3B1A1B943CE981B674BFD573B5 /* RCTImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTImageCache.m; path = Libraries/Image/RCTImageCache.m; sourceTree = "<group>"; };
@@ -854,7 +843,6 @@
 		352CFC5481A9E992DFE69316E98212F0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		35A2ACEC77DC6CB36E41E331DA191867 /* RCTEventAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTEventAnimation.m; sourceTree = "<group>"; };
 		35AC1F790C0B56519A2C94FD8677882A /* double-conversion.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "double-conversion.h"; path = "double-conversion/double-conversion.h"; sourceTree = "<group>"; };
-		3638A71C5A3746718140FC7539BA0D53 /* Pods-FoxboxChallenge-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FoxboxChallenge-acknowledgements.markdown"; sourceTree = "<group>"; };
 		36508682617A905965B20FAEA8B8C5A7 /* RCTRedBox.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTRedBox.m; sourceTree = "<group>"; };
 		36943346AE25082A6770E0075176A611 /* RCTModalHostViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTModalHostViewManager.h; sourceTree = "<group>"; };
 		372CB7AE2F9606B98EB0C069C96B790D /* RCTTiming.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTiming.m; sourceTree = "<group>"; };
@@ -900,7 +888,6 @@
 		45E0ADF4A544C91A038563248A74056F /* RCTDecayAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDecayAnimation.h; sourceTree = "<group>"; };
 		4617B8A1894EC71945E4FC0FEAA88CDC /* RCTScrollViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTScrollViewManager.h; sourceTree = "<group>"; };
 		46D29066BA8595942EDF89E68B212B18 /* RCTRootViewDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTRootViewDelegate.h; sourceTree = "<group>"; };
-		4811EBFF24179185A27E8707A33016B0 /* Pods-FoxboxChallenge-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FoxboxChallenge-Info.plist"; sourceTree = "<group>"; };
 		488A07FACACEFE7F3C7D71425CB327D2 /* RCTPackagerConnection.mm */ = {isa = PBXFileReference; includeInIndex = 1; path = RCTPackagerConnection.mm; sourceTree = "<group>"; };
 		48ACC320DD2EB6FF12DD9D200724A1A6 /* RCTFileRequestHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTFileRequestHandler.h; path = Libraries/Network/RCTFileRequestHandler.h; sourceTree = "<group>"; };
 		4931571F058CDD42592F6CCCDD6451FF /* fixed-dtoa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "fixed-dtoa.h"; path = "double-conversion/fixed-dtoa.h"; sourceTree = "<group>"; };
@@ -919,6 +906,7 @@
 		4B7440959D4BCE00408DC49074CE0295 /* RCTWebSocketExecutor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RCTWebSocketExecutor.m; path = Libraries/WebSocket/RCTWebSocketExecutor.m; sourceTree = "<group>"; };
 		4C7F8D38A3D60B7AAE62075E807969BD /* RCTSpringAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSpringAnimation.h; sourceTree = "<group>"; };
 		4C8A0CE8C721F7CEBAA4FB6F99872553 /* RCTConvert.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTConvert.m; sourceTree = "<group>"; };
+		4C9BAEF0BC6A68C062FACD412D74F23C /* Pods-FoxboxChallenge.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FoxboxChallenge.modulemap"; sourceTree = "<group>"; };
 		4CC22087429A8E4CEC502807F9E4D289 /* Utils.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = Utils.cpp; path = yoga/Utils.cpp; sourceTree = "<group>"; };
 		4CC47D4B30B51187735427AAFC4C1903 /* RCTScrollContentViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTScrollContentViewManager.h; sourceTree = "<group>"; };
 		4D1A6EF33F6A72AD6A61F73300348DFF /* RCTImageEditingManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTImageEditingManager.h; path = Libraries/Image/RCTImageEditingManager.h; sourceTree = "<group>"; };
@@ -951,13 +939,13 @@
 		5DFD4329945C8C1661C2C9898EF8946E /* utilities.cc */ = {isa = PBXFileReference; includeInIndex = 1; name = utilities.cc; path = src/utilities.cc; sourceTree = "<group>"; };
 		5E199B20BD5D689B9EA0BECE0FAA3039 /* strtod.cc */ = {isa = PBXFileReference; includeInIndex = 1; name = strtod.cc; path = "double-conversion/strtod.cc"; sourceTree = "<group>"; };
 		5E4D9E8021A7701B771660712DDAB2F2 /* RCTWebViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTWebViewManager.h; sourceTree = "<group>"; };
-		5E77D36A895018A34234D5816F456DF3 /* Pods-FoxboxChallengeTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FoxboxChallengeTests.modulemap"; sourceTree = "<group>"; };
 		5F4A53364CC5A76CBA820540365957C8 /* RCTDevLoadingView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDevLoadingView.h; sourceTree = "<group>"; };
 		604A3B033D870E3B9FED376F20CB2061 /* RCTLayout.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTLayout.m; sourceTree = "<group>"; };
 		6058AC8390DE93C1489BA90D37E25D9E /* RCTDatePicker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDatePicker.h; sourceTree = "<group>"; };
 		60F89575C3C018B0B012A7E3A4591659 /* Yoga-internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Yoga-internal.h"; path = "yoga/Yoga-internal.h"; sourceTree = "<group>"; };
 		6140E4664D443849938503135D233C89 /* bignum-dtoa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "bignum-dtoa.h"; path = "double-conversion/bignum-dtoa.h"; sourceTree = "<group>"; };
 		61CF4892D6C416196F6B3BD64A3773A0 /* RCTRootView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTRootView.h; sourceTree = "<group>"; };
+		62D9013747E5E97D5C538B216D15BBFA /* Pods-FoxboxChallenge-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FoxboxChallenge-Info.plist"; sourceTree = "<group>"; };
 		634905BE7963E40BD9CB21C23C78113D /* RCTFrameAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTFrameAnimation.m; sourceTree = "<group>"; };
 		640D1042BD1B07BFBD6A8C01DFB65A3C /* RCTSurfaceHostingView.mm */ = {isa = PBXFileReference; includeInIndex = 1; path = RCTSurfaceHostingView.mm; sourceTree = "<group>"; };
 		6480702193734DB907ABCA5081C50C58 /* RCTResizeMode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTResizeMode.h; path = Libraries/Image/RCTResizeMode.h; sourceTree = "<group>"; };
@@ -997,7 +985,6 @@
 		73203CD74E526826AAD2A7AA78507E26 /* RCTFrameAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTFrameAnimation.h; sourceTree = "<group>"; };
 		732595B657C26F652B7D65B52CFA96F6 /* RCTPackagerClient.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTPackagerClient.m; sourceTree = "<group>"; };
 		73800CBEE83561E8B001E847E7F74531 /* RCTConvert.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTConvert.h; sourceTree = "<group>"; };
-		73833C2143D9701F6CBEE71D3C70C8BB /* Pods-FoxboxChallengeTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FoxboxChallengeTests-dummy.m"; sourceTree = "<group>"; };
 		73BB9B3E3AFBFC95C627FE3CFAB0DAE2 /* RCTLayoutAnimationGroup.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTLayoutAnimationGroup.h; sourceTree = "<group>"; };
 		73FA22BB8781CA374CF13D125087941E /* RCTSafeAreaView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSafeAreaView.h; sourceTree = "<group>"; };
 		745D189CBCAD1FC810C9B76D288A972D /* RCTFollyConvert.mm */ = {isa = PBXFileReference; includeInIndex = 1; path = RCTFollyConvert.mm; sourceTree = "<group>"; };
@@ -1027,7 +1014,6 @@
 		7F60BB03783B4E0E00585660A0EA5FB6 /* Folly.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Folly.modulemap; sourceTree = "<group>"; };
 		7FB296905226553850509DE41D1C7D89 /* RCTMaskedView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTMaskedView.h; sourceTree = "<group>"; };
 		7FDE4C00C5C847F44706F5479B301B41 /* RCTSafeAreaShadowView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTSafeAreaShadowView.m; sourceTree = "<group>"; };
-		7FECDB46011925D8D76F9DF920B07D2A /* Pods-FoxboxChallengeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FoxboxChallengeTests.release.xcconfig"; sourceTree = "<group>"; };
 		8008DA299A7CCF81497249DD6E717534 /* RCTFileReaderModule.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTFileReaderModule.h; path = Libraries/Blob/RCTFileReaderModule.h; sourceTree = "<group>"; };
 		8035C3B97458C03F0459C80D1DE626A2 /* RCTModalManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTModalManager.h; sourceTree = "<group>"; };
 		808703B5C7CDA782A0D9048F466FE16A /* yoga.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = yoga.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -1054,6 +1040,7 @@
 		8684BD9DC690CAC1B9855CC9A399B36C /* RCTRootView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTRootView.m; sourceTree = "<group>"; };
 		87567EF87888A8CBF3E59650CF93B229 /* fishhook.c */ = {isa = PBXFileReference; includeInIndex = 1; name = fishhook.c; path = Libraries/fishhook/fishhook.c; sourceTree = "<group>"; };
 		88357DBCA70645D0332CF17A67AC45F4 /* RCTComponentData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTComponentData.m; sourceTree = "<group>"; };
+		88700249F52D3B0453DCCC8091CFF7CC /* Pods-FoxboxChallenge-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FoxboxChallenge-umbrella.h"; sourceTree = "<group>"; };
 		88A5887DEBDECB714ABBC562F90BE545 /* RCTSurfaceRootShadowView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTSurfaceRootShadowView.h; sourceTree = "<group>"; };
 		88AF9A9EE7868AECE22C14899478472C /* YGConfig.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = YGConfig.cpp; path = yoga/YGConfig.cpp; sourceTree = "<group>"; };
 		88E7823E82E0C9F6983FD52F7F992802 /* RCTFollyConvert.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTFollyConvert.h; sourceTree = "<group>"; };
@@ -1084,7 +1071,6 @@
 		9298C3C1DD27486A04DED8722BE02B51 /* RCTModuloAnimatedNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTModuloAnimatedNode.h; sourceTree = "<group>"; };
 		92B9529A057B9CBFB409042D508CD3F5 /* DoubleConversion.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DoubleConversion.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		92C939CEA853868EA2A77286A8453F6B /* diy-fp.cc */ = {isa = PBXFileReference; includeInIndex = 1; name = "diy-fp.cc"; path = "double-conversion/diy-fp.cc"; sourceTree = "<group>"; };
-		9307F87C16CE784D1C18CBAC7C8E8EE5 /* Pods-FoxboxChallenge.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FoxboxChallenge.modulemap"; sourceTree = "<group>"; };
 		936222F4BBCD3A083667121CA1C7A935 /* RCTUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTUtils.h; sourceTree = "<group>"; };
 		93C26080917CF37A41C621E38F741895 /* RCTInterpolationAnimatedNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTInterpolationAnimatedNode.m; sourceTree = "<group>"; };
 		94895C80E55F70F98A57E93AAD3D8F58 /* RCTMessageThread.mm */ = {isa = PBXFileReference; includeInIndex = 1; path = RCTMessageThread.mm; sourceTree = "<group>"; };
@@ -1111,7 +1097,6 @@
 		9A8F67221DD2B3AC8990A96E0FC7AE1E /* RCTAssert.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTAssert.m; sourceTree = "<group>"; };
 		9B1B136F4DEEB12961FD51E7E05E5261 /* RCTStyleAnimatedNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTStyleAnimatedNode.h; sourceTree = "<group>"; };
 		9BC44F458A610DEE788D6360DBB662B7 /* YGStyle.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = YGStyle.cpp; path = yoga/YGStyle.cpp; sourceTree = "<group>"; };
-		9BC6092EA09A13D057B1411BF6EE4B14 /* Pods-FoxboxChallengeTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FoxboxChallengeTests-Info.plist"; sourceTree = "<group>"; };
 		9BC7CBAA252F0DD95CCDCD1426B0F9B3 /* folly.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = folly.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BFB7AF428F4AF33B968C5DD424718B5 /* YGFloatOptional.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YGFloatOptional.h; path = yoga/YGFloatOptional.h; sourceTree = "<group>"; };
 		9CD597CA35DC8546A5FD0F80EA655F25 /* RCTSafeAreaView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTSafeAreaView.m; sourceTree = "<group>"; };
@@ -1141,19 +1126,18 @@
 		A7B659A42499D806ED77019CB193E7FD /* SpookyHashV2.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = SpookyHashV2.cpp; path = folly/hash/SpookyHashV2.cpp; sourceTree = "<group>"; };
 		A7D1DF5271ECEABB59F9DF84DA2369B9 /* RCTRawTextShadowView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTRawTextShadowView.h; sourceTree = "<group>"; };
 		A87B8597B26AC104614E3C0C54193B4F /* RCTDiffClampAnimatedNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTDiffClampAnimatedNode.m; sourceTree = "<group>"; };
+		A91B4CFA57D574BF4243EBDE9EA08907 /* Pods-FoxboxChallenge-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FoxboxChallenge-frameworks.sh"; sourceTree = "<group>"; };
 		A96CFB8F76BF2469006B275E7582195F /* RCTDecayAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTDecayAnimation.m; sourceTree = "<group>"; };
 		A9D25DDD1470DE24B93D7F322351D77A /* RCTSegmentedControlManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTSegmentedControlManager.m; sourceTree = "<group>"; };
 		A9E1C49C2C01E91E6A848ACFBC010459 /* RCTEventDispatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTEventDispatcher.h; sourceTree = "<group>"; };
 		AA2F3E8EC8AD421F2729FABBE5A848EF /* RCTTiming.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTiming.h; sourceTree = "<group>"; };
 		AAB2BA5B823074130FDFE5E319B3EFA5 /* RCTURLRequestDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTURLRequestDelegate.h; sourceTree = "<group>"; };
 		AC68E5CF0436C933C5089F034B4997A4 /* RCTUIManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTUIManager.h; sourceTree = "<group>"; };
-		ACF682CF6370130DF4D9295CF6558EC0 /* Pods_FoxboxChallengeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FoxboxChallengeTests.framework; path = "Pods-FoxboxChallengeTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD43752AD7EE95052090692612D97E96 /* String.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = String.cpp; path = folly/String.cpp; sourceTree = "<group>"; };
 		AD7F4612684FACFC9D6334217C2FA802 /* RCTBundleURLProvider.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTBundleURLProvider.m; sourceTree = "<group>"; };
 		AE4AB9B07F8A8BF52A97714610F8874A /* MallocImpl.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = MallocImpl.cpp; path = folly/memory/detail/MallocImpl.cpp; sourceTree = "<group>"; };
 		AF4DF7370A58833DD748EB9BC1F89128 /* RCTFPSGraph.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTFPSGraph.h; sourceTree = "<group>"; };
 		B04D48B01A7ABE0153BDEEEFF4E065A8 /* RCTTouchEvent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTTouchEvent.h; sourceTree = "<group>"; };
-		B124A8CAB9AD0DC47485E72B89FFBA2A /* Pods-FoxboxChallenge.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FoxboxChallenge.release.xcconfig"; sourceTree = "<group>"; };
 		B183C7E39FFEDAA2973347C6FC86CFEE /* YGNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YGNode.h; path = yoga/YGNode.h; sourceTree = "<group>"; };
 		B1C72E87E31A5E95E2619D6C605547FB /* Folly-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Folly-umbrella.h"; sourceTree = "<group>"; };
 		B24297862A484F08CE62BB3888BF471A /* glog.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = glog.modulemap; sourceTree = "<group>"; };
@@ -1240,6 +1224,7 @@
 		D64462DEB18B580B935A0E91ECDD24F0 /* RCTScrollContentShadowView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTScrollContentShadowView.h; sourceTree = "<group>"; };
 		D66D947C4E9B56A8D58EC6C88AA7CD33 /* RCTTransformAnimatedNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTransformAnimatedNode.m; sourceTree = "<group>"; };
 		D750B227637BAA3ADCA160F98A34B1E8 /* RCTBundleURLProvider.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBundleURLProvider.h; sourceTree = "<group>"; };
+		D7A4F8A256BF5D79DC3E7C6E54A8CDFB /* Pods-FoxboxChallenge-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FoxboxChallenge-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D7A963099A8988F40C2741F6C2F02C2D /* RCTComponentData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTComponentData.h; sourceTree = "<group>"; };
 		D7AE0380A21AA5A4F5988C59D285E20F /* RCTAnimatedNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTAnimatedNode.m; sourceTree = "<group>"; };
 		D7D9F5B6F7EAB4C46443ED8687DB15E2 /* RCTMultipartDataTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTMultipartDataTask.m; sourceTree = "<group>"; };
@@ -1273,7 +1258,6 @@
 		E6625D5E8593808CABF833596F658B34 /* ModuleRegistry.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = ModuleRegistry.cpp; path = ReactCommon/cxxreact/ModuleRegistry.cpp; sourceTree = "<group>"; };
 		E6BC30A69B6ABFD347E544BD1786EFEC /* JSIExecutor.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = JSIExecutor.cpp; path = ReactCommon/jsiexecutor/jsireact/JSIExecutor.cpp; sourceTree = "<group>"; };
 		E6CC8960B8BE8B56233E0CABACBE4A6D /* RCTInputAccessoryViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTInputAccessoryViewManager.h; sourceTree = "<group>"; };
-		E6F4C01D5EFB84951EE343ABE74F57F2 /* Pods-FoxboxChallengeTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FoxboxChallengeTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		E7254E03C896B40A0ABA2B719E322ACC /* RCTAssert.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTAssert.h; sourceTree = "<group>"; };
 		E7AB2E5ED034D94C7663209B865BA2A5 /* RCTBaseTextInputView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTBaseTextInputView.m; sourceTree = "<group>"; };
 		E8CEC2AEAC9804DD57B07CA8C228DC1C /* RCTImageUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTImageUtils.h; path = Libraries/Image/RCTImageUtils.h; sourceTree = "<group>"; };
@@ -1286,7 +1270,6 @@
 		EA16DE43A679B239D17607156AE37094 /* signalhandler.cc */ = {isa = PBXFileReference; includeInIndex = 1; name = signalhandler.cc; path = src/signalhandler.cc; sourceTree = "<group>"; };
 		EA1716A8C03032A52FFBFC67915421B9 /* RCTInspector.mm */ = {isa = PBXFileReference; includeInIndex = 1; path = RCTInspector.mm; sourceTree = "<group>"; };
 		EB13A1D78E872770AFC0667A68059959 /* RCTBaseTextViewManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTBaseTextViewManager.h; sourceTree = "<group>"; };
-		EB13A5DFF86F7B40DCD29B10AEABFAFA /* Pods-FoxboxChallengeTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FoxboxChallengeTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		EB91A85E0F9AEA38AFA493D043549553 /* Instance.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = Instance.cpp; path = ReactCommon/cxxreact/Instance.cpp; sourceTree = "<group>"; };
 		EBF600CC15B633ED1CC06E83F4CABD1B /* RCTClipboard.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTClipboard.m; sourceTree = "<group>"; };
 		EC32E80EA843263915D7805377C2BB43 /* json_pointer.cpp */ = {isa = PBXFileReference; includeInIndex = 1; name = json_pointer.cpp; path = folly/json_pointer.cpp; sourceTree = "<group>"; };
@@ -1315,7 +1298,6 @@
 		F448888FA9C97EB486072D85B5624417 /* YGStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YGStyle.h; path = yoga/YGStyle.h; sourceTree = "<group>"; };
 		F5653C824022595055E559FBFC34A5B4 /* RCTReloadCommand.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTReloadCommand.h; sourceTree = "<group>"; };
 		F62AE186089B562E7299F7052E00E026 /* RCTErrorCustomizer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTErrorCustomizer.h; sourceTree = "<group>"; };
-		F68650E528DD7CB44ABCDA59D5489A16 /* Pods-FoxboxChallengeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FoxboxChallengeTests.debug.xcconfig"; sourceTree = "<group>"; };
 		F6D06C6224A5F93FEDA3FD239F192DFF /* RCTSRWebSocket.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RCTSRWebSocket.h; path = Libraries/WebSocket/RCTSRWebSocket.h; sourceTree = "<group>"; };
 		F7304A6537F234C8A1BA2ED1BBE948FC /* RCTKeyCommands.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTKeyCommands.m; sourceTree = "<group>"; };
 		F7476DB6685E0AF8748F89F76A20556E /* RCTDiffClampAnimatedNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTDiffClampAnimatedNode.h; sourceTree = "<group>"; };
@@ -1329,7 +1311,6 @@
 		FA3B74780B2264DD0F6C7BC1B2B95AD7 /* DoubleConversion-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DoubleConversion-umbrella.h"; sourceTree = "<group>"; };
 		FBEF81E8D32007E32E14D7E7AADB99C3 /* RCTTrackingAnimatedNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RCTTrackingAnimatedNode.m; sourceTree = "<group>"; };
 		FC1BC5DFFE3B4B9043CA915A6D930C57 /* RCTAnimatedNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RCTAnimatedNode.h; sourceTree = "<group>"; };
-		FDEA1241ABEDE771D983E275DB779E20 /* Pods-FoxboxChallenge-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FoxboxChallenge-dummy.m"; sourceTree = "<group>"; };
 		FF64A1CC4026DF3115886EBE16FD924A /* RCTLog.mm */ = {isa = PBXFileReference; includeInIndex = 1; path = RCTLog.mm; sourceTree = "<group>"; };
 		FFDACEEC431174A8B37954A7D875E645 /* jsi-inl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "jsi-inl.h"; path = "ReactCommon/jsi/jsi-inl.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -1387,14 +1368,6 @@
 				EF1A67AFF3C85A248C05813DDA125CD8 /* DoubleConversion.framework in Frameworks */,
 				6CC5E19077AC6CD3C295E213A1165633 /* Foundation.framework in Frameworks */,
 				26F8CD7CA974BE92E1E2DF39D24AAE73 /* glog.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		E26A2BC1B37900FB3601968AE05C579C /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D77E5BF15A77D0D26EBDA466E9676C7C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1531,6 +1504,19 @@
 			);
 			name = Drivers;
 			path = Libraries/NativeAnimation/Drivers;
+			sourceTree = "<group>";
+		};
+		16980DDF4E15C3AD437977B5816A8C06 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6FFB7B2992BB53405E6B771A5BA1E97D /* DoubleConversion.framework */,
+				06489499588BFA8FD5E63DD6375CD533 /* folly.framework */,
+				3CA7A9404CCDD6BA22C97F8348CE3209 /* glog.framework */,
+				E28FDB9B684B1B9DF67B8D18550E5176 /* Pods_FoxboxChallenge.framework */,
+				0E7C341FA544E64E23E052A68E4A0A5E /* React.framework */,
+				1FA65622A09E4E5504F80B3610AB78F1 /* yoga.framework */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		1D9408C2DBED47564B83D1A57EC5F5A0 /* Pod */ = {
@@ -1847,15 +1833,6 @@
 			name = CxxBridge;
 			sourceTree = "<group>";
 		};
-		5F84DD055B89292425F42A885AE9F597 /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				63E3EB3F2B2ABB0D6F53DA9B9A8E150D /* Pods-FoxboxChallenge */,
-				F66581094634219EF15645C11384F376 /* Pods-FoxboxChallengeTests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
 		638ECE0D78C11552B2F920A6EA649ABA /* fishhook */ = {
 			isa = PBXGroup;
 			children = (
@@ -1863,23 +1840,6 @@
 				54ACE02CD3B8C8133E9662E0864F365F /* fishhook.h */,
 			);
 			name = fishhook;
-			sourceTree = "<group>";
-		};
-		63E3EB3F2B2ABB0D6F53DA9B9A8E150D /* Pods-FoxboxChallenge */ = {
-			isa = PBXGroup;
-			children = (
-				9307F87C16CE784D1C18CBAC7C8E8EE5 /* Pods-FoxboxChallenge.modulemap */,
-				3638A71C5A3746718140FC7539BA0D53 /* Pods-FoxboxChallenge-acknowledgements.markdown */,
-				1AC8501D1ADA02B69742BD4940A4B618 /* Pods-FoxboxChallenge-acknowledgements.plist */,
-				FDEA1241ABEDE771D983E275DB779E20 /* Pods-FoxboxChallenge-dummy.m */,
-				127792DB6BBD399477A4135400C5A7B7 /* Pods-FoxboxChallenge-frameworks.sh */,
-				4811EBFF24179185A27E8707A33016B0 /* Pods-FoxboxChallenge-Info.plist */,
-				2D5F0F3143153C56D9C64541ECF28237 /* Pods-FoxboxChallenge-umbrella.h */,
-				2B44B64B59E3C0EA85BE6B6933E4D727 /* Pods-FoxboxChallenge.debug.xcconfig */,
-				B124A8CAB9AD0DC47485E72B89FFBA2A /* Pods-FoxboxChallenge.release.xcconfig */,
-			);
-			name = "Pods-FoxboxChallenge";
-			path = "Target Support Files/Pods-FoxboxChallenge";
 			sourceTree = "<group>";
 		};
 		6558C705B193A90F4FB0B55C481FC3A4 /* Text */ = {
@@ -2032,20 +1992,6 @@
 			);
 			name = yoga;
 			path = "../../node_modules/react-native/ReactCommon/yoga";
-			sourceTree = "<group>";
-		};
-		8ED10F7A9935F938E927304D895347A2 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				6FFB7B2992BB53405E6B771A5BA1E97D /* DoubleConversion.framework */,
-				06489499588BFA8FD5E63DD6375CD533 /* folly.framework */,
-				3CA7A9404CCDD6BA22C97F8348CE3209 /* glog.framework */,
-				E28FDB9B684B1B9DF67B8D18550E5176 /* Pods_FoxboxChallenge.framework */,
-				ACF682CF6370130DF4D9295CF6558EC0 /* Pods_FoxboxChallengeTests.framework */,
-				0E7C341FA544E64E23E052A68E4A0A5E /* React.framework */,
-				1FA65622A09E4E5504F80B3610AB78F1 /* yoga.framework */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		8F40F923D2543864B48AFD278BD958E9 /* Support Files */ = {
@@ -2425,8 +2371,8 @@
 				DEA255F2F486DD74BA7918A3827293D8 /* Development Pods */,
 				EC9A13DE8DDA0036A0F497C0C67A333A /* Frameworks */,
 				2191FFBD4B5A7677AF9C49C831AD2632 /* Pods */,
-				8ED10F7A9935F938E927304D895347A2 /* Products */,
-				5F84DD055B89292425F42A885AE9F597 /* Targets Support Files */,
+				16980DDF4E15C3AD437977B5816A8C06 /* Products */,
+				E757624D6FDD7593E1CEF634746E844A /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -2451,6 +2397,31 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/glog";
+			sourceTree = "<group>";
+		};
+		E757624D6FDD7593E1CEF634746E844A /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				EBCB34943573CF1185B6791B1DAB2718 /* Pods-FoxboxChallenge */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		EBCB34943573CF1185B6791B1DAB2718 /* Pods-FoxboxChallenge */ = {
+			isa = PBXGroup;
+			children = (
+				4C9BAEF0BC6A68C062FACD412D74F23C /* Pods-FoxboxChallenge.modulemap */,
+				D7A4F8A256BF5D79DC3E7C6E54A8CDFB /* Pods-FoxboxChallenge-acknowledgements.markdown */,
+				2CB2C304242A317D9B1693F7D67656E4 /* Pods-FoxboxChallenge-acknowledgements.plist */,
+				2068A894D3B4D8F368F8FD59133A95C2 /* Pods-FoxboxChallenge-dummy.m */,
+				A91B4CFA57D574BF4243EBDE9EA08907 /* Pods-FoxboxChallenge-frameworks.sh */,
+				62D9013747E5E97D5C538B216D15BBFA /* Pods-FoxboxChallenge-Info.plist */,
+				88700249F52D3B0453DCCC8091CFF7CC /* Pods-FoxboxChallenge-umbrella.h */,
+				2A8794286B875C37C844092B55768CBB /* Pods-FoxboxChallenge.debug.xcconfig */,
+				2B248BD5B0AE4B1B002CAA27E87110A6 /* Pods-FoxboxChallenge.release.xcconfig */,
+			);
+			name = "Pods-FoxboxChallenge";
+			path = "Target Support Files/Pods-FoxboxChallenge";
 			sourceTree = "<group>";
 		};
 		EBF60AE8B7F82C3769F1E7447D99AD66 /* Support Files */ = {
@@ -2512,22 +2483,6 @@
 			path = React/CxxUtils;
 			sourceTree = "<group>";
 		};
-		F66581094634219EF15645C11384F376 /* Pods-FoxboxChallengeTests */ = {
-			isa = PBXGroup;
-			children = (
-				5E77D36A895018A34234D5816F456DF3 /* Pods-FoxboxChallengeTests.modulemap */,
-				EB13A5DFF86F7B40DCD29B10AEABFAFA /* Pods-FoxboxChallengeTests-acknowledgements.markdown */,
-				E6F4C01D5EFB84951EE343ABE74F57F2 /* Pods-FoxboxChallengeTests-acknowledgements.plist */,
-				73833C2143D9701F6CBEE71D3C70C8BB /* Pods-FoxboxChallengeTests-dummy.m */,
-				9BC6092EA09A13D057B1411BF6EE4B14 /* Pods-FoxboxChallengeTests-Info.plist */,
-				08BFD5A61E16D3069D0689D5374CE3A8 /* Pods-FoxboxChallengeTests-umbrella.h */,
-				F68650E528DD7CB44ABCDA59D5489A16 /* Pods-FoxboxChallengeTests.debug.xcconfig */,
-				7FECDB46011925D8D76F9DF920B07D2A /* Pods-FoxboxChallengeTests.release.xcconfig */,
-			);
-			name = "Pods-FoxboxChallengeTests";
-			path = "Target Support Files/Pods-FoxboxChallengeTests";
-			sourceTree = "<group>";
-		};
 		F95FF17DCD147D663FBB3EB96B6AA7F8 /* SurfaceHostingView */ = {
 			isa = PBXGroup;
 			children = (
@@ -2583,14 +2538,6 @@
 				7F67317508EA3A5183FE712EC2740E33 /* Yoga-internal.h in Headers */,
 				033CCE2751154A6CAAFB834DCDD50042 /* yoga-umbrella.h in Headers */,
 				505B0C52D63875AA4CA3AB373BE30449 /* Yoga.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		480688331955F195D35C91DE1BAB2D96 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				658F63FF2E5A49A8EAC62FF1AAD0D5DC /* Pods-FoxboxChallengeTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2990,25 +2937,6 @@
 			productReference = E28FDB9B684B1B9DF67B8D18550E5176 /* Pods_FoxboxChallenge.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		AD08CF8834606FDF983B5C884D8A68DB /* Pods-FoxboxChallengeTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 86D735079682FA053CC5937A05B4AFC4 /* Build configuration list for PBXNativeTarget "Pods-FoxboxChallengeTests" */;
-			buildPhases = (
-				480688331955F195D35C91DE1BAB2D96 /* Headers */,
-				13EA753BECA60E0650E06D9360BC555F /* Sources */,
-				E26A2BC1B37900FB3601968AE05C579C /* Frameworks */,
-				93B152B882AC7BC1C6F30E57F592E972 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				C66F4D123AAA07612E39E9A464FA2F08 /* PBXTargetDependency */,
-			);
-			name = "Pods-FoxboxChallengeTests";
-			productName = "Pods-FoxboxChallengeTests";
-			productReference = ACF682CF6370130DF4D9295CF6558EC0 /* Pods_FoxboxChallengeTests.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		D0B273D56D6C8A0C770E79BE693CE2EE /* yoga */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE3FA638BEC7DFFA70030B28F17C5197 /* Build configuration list for PBXNativeTarget "yoga" */;
@@ -3062,7 +2990,7 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 8ED10F7A9935F938E927304D895347A2 /* Products */;
+			productRefGroup = 16980DDF4E15C3AD437977B5816A8C06 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -3071,7 +2999,6 @@
 				A4F685BE3CAC127BDCE4E0DBBD88D191 /* Folly */,
 				D0EFEFB685D97280256C559792236873 /* glog */,
 				AB84D920BB90A9C3A214D8E98B77F7D5 /* Pods-FoxboxChallenge */,
-				AD08CF8834606FDF983B5C884D8A68DB /* Pods-FoxboxChallengeTests */,
 				1BEE828C124E6416179B904A9F66D794 /* React */,
 				D0B273D56D6C8A0C770E79BE693CE2EE /* yoga */,
 			);
@@ -3101,13 +3028,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		91AB2C8684F899089584F83D6146BDD1 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		93B152B882AC7BC1C6F30E57F592E972 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -3175,14 +3095,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				807CBAB1A774D05DD228E9C8FAEB65CA /* Pods-FoxboxChallenge-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		13EA753BECA60E0650E06D9360BC555F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8BD2C0C46F24A92E7824A888C3A74675 /* Pods-FoxboxChallengeTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3532,12 +3444,6 @@
 			target = D0B273D56D6C8A0C770E79BE693CE2EE /* yoga */;
 			targetProxy = 3A563357FD2A0CAEE892EBEDD8903EC0 /* PBXContainerItemProxy */;
 		};
-		C66F4D123AAA07612E39E9A464FA2F08 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-FoxboxChallenge";
-			target = AB84D920BB90A9C3A214D8E98B77F7D5 /* Pods-FoxboxChallenge */;
-			targetProxy = 086B55695E53A10EE8B464ACCE12C03F /* PBXContainerItemProxy */;
-		};
 		FF5CBE8188C2121719FBD14F97B1F160 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "boost-for-react-native";
@@ -3700,43 +3606,9 @@
 			};
 			name = Debug;
 		};
-		5D79CAA0BB96C15A46CAA72236063339 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7FECDB46011925D8D76F9DF920B07D2A /* Pods-FoxboxChallengeTests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-FoxboxChallengeTests/Pods-FoxboxChallengeTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-FoxboxChallengeTests/Pods-FoxboxChallengeTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		7266012E7A8364BFB4367F6A451339AA /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2B44B64B59E3C0EA85BE6B6933E4D727 /* Pods-FoxboxChallenge.debug.xcconfig */;
+			baseConfigurationReference = 2A8794286B875C37C844092B55768CBB /* Pods-FoxboxChallenge.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -4042,7 +3914,7 @@
 		};
 		CDEB1A5D4C8443003E520822A8CDF9AD /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B124A8CAB9AD0DC47485E72B89FFBA2A /* Pods-FoxboxChallenge.release.xcconfig */;
+			baseConfigurationReference = 2B248BD5B0AE4B1B002CAA27E87110A6 /* Pods-FoxboxChallenge.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -4104,39 +3976,6 @@
 			};
 			name = Debug;
 		};
-		E5F9B6AD63107C642813ACCF1A2658AD /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F68650E528DD7CB44ABCDA59D5489A16 /* Pods-FoxboxChallengeTests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-FoxboxChallengeTests/Pods-FoxboxChallengeTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-FoxboxChallengeTests/Pods-FoxboxChallengeTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -4172,15 +4011,6 @@
 			buildConfigurations = (
 				9FB5B29F5B809CE0A2BA90AAA0E33A27 /* Debug */,
 				918F78980F0D1268B51BD5D8FEABD14F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		86D735079682FA053CC5937A05B4AFC4 /* Build configuration list for PBXNativeTarget "Pods-FoxboxChallengeTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				E5F9B6AD63107C642813ACCF1A2658AD /* Debug */,
-				5D79CAA0BB96C15A46CAA72236063339 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
