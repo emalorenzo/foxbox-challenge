@@ -1,0 +1,3 @@
+rootProject.name = 'FoxboxChallenge'
+
+include ':app'
