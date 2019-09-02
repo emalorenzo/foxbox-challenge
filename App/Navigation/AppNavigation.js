@@ -1,4 +1,6 @@
+import React from 'react';
 import { createStackNavigator, createAppContainer } from 'react-navigation';
+import SearchBar from '../Components/SearchBar';
 
 // Screens
 import WelcomeScreen from '../Screens/WelcomeScreen';
@@ -13,6 +15,9 @@ const AppStack = createStackNavigator({
   },
   CocktailFinder: {
     screen: CocktailFinderScreen,
+    navigationOptions: {
+      header: <SearchBar />,
+    },
   },
 });
 

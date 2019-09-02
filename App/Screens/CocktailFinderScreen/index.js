@@ -1,3 +1,3 @@
-import CocktailFinderScreen from './CocktailFinderScreen';
+import CocktailFinderContainer from './CocktailFinderContainer';
 
-export default CocktailFinderScreen;
+export default CocktailFinderContainer;

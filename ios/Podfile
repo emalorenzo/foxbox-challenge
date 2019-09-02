@@ -5,7 +5,6 @@ target 'FoxboxChallenge' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for FoxboxChallenge
   pod 'React', :path => '../node_modules/react-native', :subspecs => [
     'Core',
     'CxxBridge',
@@ -25,10 +24,9 @@ target 'FoxboxChallenge' do
   pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
+
+  # Pods for FoxboxChallenge
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
-
-
-
   pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
 
 end
